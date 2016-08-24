@@ -1,0 +1,4 @@
+apple - 1
+pear - 4
+apple - 2
+pears - 6
